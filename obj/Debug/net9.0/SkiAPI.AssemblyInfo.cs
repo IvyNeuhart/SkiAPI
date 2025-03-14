@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkiAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b1f5d6466dd70f626e2c2e050e3eb3f3ef7a277")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkiAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkiAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

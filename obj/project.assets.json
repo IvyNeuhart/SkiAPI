@@ -5170,19 +5170,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bon\\.nuget\\packages\\": {}
+    "C:\\Users\\neuharti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ivydirpc\\SkiAPI\\SkiAPI.csproj",
+      "projectUniqueName": "C:\\Users\\neuharti\\Documents\\ivydir\\SkiAPI\\SkiAPI.csproj",
       "projectName": "SkiAPI",
-      "projectPath": "D:\\ivydirpc\\SkiAPI\\SkiAPI.csproj",
-      "packagesPath": "C:\\Users\\Bon\\.nuget\\packages\\",
-      "outputPath": "D:\\ivydirpc\\SkiAPI\\obj\\",
+      "projectPath": "C:\\Users\\neuharti\\Documents\\ivydir\\SkiAPI\\SkiAPI.csproj",
+      "packagesPath": "C:\\Users\\neuharti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\neuharti\\Documents\\ivydir\\SkiAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\neuharti\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -5206,7 +5206,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -5254,7 +5254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
